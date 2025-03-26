@@ -1,0 +1,9 @@
+datasets/*
+edm/**
+**/__pycache__/**
+outputs/**
+wandb/**
+logs/**
+*.png
+stats/*
+checkpoints/*
